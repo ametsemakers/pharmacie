@@ -1,4 +1,4 @@
-// Classe abstracte mère
+// Classe abstracte mère 
 public abstract class User {
 	
 	protected int id;
